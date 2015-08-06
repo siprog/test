@@ -6,5 +6,9 @@ public class Test {
 		System.out.println("Ahoj Světe!");
 	}
 
+	public void Hello(){
+		System.out.println("Dobrý den");
+	}
+
 
 }
