@@ -3,6 +3,7 @@ public class Test {
 		System.out.println("Hello world");
 		System.out.println("I am learning git.");
 		int x=10;
+		System.out.println("Ahoj Světe!");
 	}
 
 
