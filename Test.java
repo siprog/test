@@ -12,5 +12,9 @@ public class Test {
 		x=x+10;
 	}
 
+	public int Add(int x, int y) {
+		return x+y;
+	}
+
 
 }
